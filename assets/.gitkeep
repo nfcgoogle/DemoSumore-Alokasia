@@ -1,1 +1,24 @@
+# Sunmore & Alokasia Photo — Website
+
+Website statis responsif yang dibuat berdasarkan screenshot portofolio dan profil bisnis yang diberikan.
+
+## Cara menjalankan
+- Buka `index.html` di browser untuk pratinjau dasar.
+- Untuk pengalaman lokal yang lebih konsisten, jalankan server statis dari folder ini, misalnya `python -m http.server 8000`, lalu buka `http://localhost:8000`.
+- Unggah seluruh folder `alokasia-website` ke hosting statis (Netlify, Vercel, GitHub Pages, atau hosting cPanel).
+
+## Fitur
+- Landing page responsif
+- Galeri 12 foto yang diambil dari cuplikan portofolio yang diberikan
+- Filter kategori dan lightbox foto
+- Profil brand, layanan, CTA, kontak
+- Form inquiry yang menyusun pesan dan membuka WhatsApp
+- Menu mobile dan navigasi anchor
+
+## Data yang perlu diverifikasi sebelum publikasi
+- Pastikan nomor WhatsApp `+62 895-3723-60806` benar dan dapat menerima pesan.
+- Tambahkan foto asli beresolusi penuh menggantikan crop screenshot.
+- Verifikasi jam layanan, daftar layanan, alamat studio, dan akun Instagram.
+- Ganti teks dan tautan bila identitas brand atau detail kontak berubah.
+- Form saat ini membuka WhatsApp; tidak menyimpan data ke database dan bukan booking otomatis.
 
